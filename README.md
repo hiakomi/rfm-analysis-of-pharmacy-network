@@ -41,7 +41,7 @@
 
 Подробный анализ с выводами доступен в [PDF](report.pdf)
 
-## [Интерактивный дашборд по ключевым метрикам]([url](https://metabase.simulative.ru/public/dashboard/de815139-45e0-4549-bef0-424acc3840d3))
+[Интерактивный дашборд по ключевым метрикам]([url](https://metabase.simulative.ru/public/dashboard/de815139-45e0-4549-bef0-424acc3840d3))
 
 
 ## Выводы
